@@ -7,17 +7,10 @@ VMD tutorial
 
     Generate good-looking images and movies with VMD
 
-.. figure:: figures/avatar-dark.png
+.. figure:: figures/avatar.png
     :alt: Image of the lammps polymer-water system generated with VMD visual representation 
     :height: 250
     :align: right
-    :class: only-dark
-
-.. figure:: figures/avatar-light.png
-    :alt: Image of the lammps polymer-water system generated with VMD visual representation 
-    :height: 250
-    :align: right
-    :class: only-light
 
 Visual Molecular Dynamics (VMD) is a free molecular graphics software
 that can be used to visualize molecular dynamics systems. VMD has been
@@ -87,13 +80,8 @@ Choose *DynamicBonds* and increase the *bond resolution* to 52. With *DynamicBon
 the ends of the bonds are rough. To smooth out the representation, create the
 fourth and last representation (*VDW* with *Sphere Scale* 0.2) for *types* 3 4 5*.
 
-.. figure:: figures/step2-dark.png
+.. figure:: figures/step2.png
     :alt: VMD tutorial for LAMMPS
-    :class: only-dark
-
-.. figure:: figures/step2-light.png
-    :alt: VMD tutorial for LAMMPS
-    :class: only-light
 
 Figure: Orthographic view of the system with improved representation.
 
@@ -116,17 +104,10 @@ on your taste.
 Let us slightly change the original *cyan* of VMD by entering manually the values
 0.3, 1.0 and 1.0 in the RGB box.
 
-.. figure:: figures/step3-dark.png
+.. figure:: figures/step3.png
     :alt: VMD tutorial for LAMMPS
-    :class: only-dark
 
-.. figure:: figures/step3-light.png
-    :alt: VMD tutorial for LAMMPS
-    :class: only-light
-
-.. container:: figurelegend
-
-    Figure: Orthographic view with improved representation and color.
+Figure: Orthographic view with improved representation and color.
 
 The materials
 -------------
@@ -137,13 +118,8 @@ are more or less shiny or opaque.
 Let us select the default material named *Opaque*, and change *Diffuse*,
 *Specular*, and *Shininess*, to 0.56, 0.12, and 0.29, respectively.
 
-.. figure:: figures/step4-dark.png
+.. figure:: figures/step4.png
     :alt: VMD tutorial for LAMMPS
-    :class: only-dark
-
-.. figure:: figures/step4-light.png
-    :alt: VMD tutorial for LAMMPS
-    :class: only-light
 
 Figure: Orthographic view with improved representation, color, and material.
 See the corresponding |vmd_video|.
@@ -163,13 +139,8 @@ with *transparent* material.
 
 Here I turned off *Light 0*, and turned on all three other default lights.
 
-.. figure:: figures/transparent-dark.png
+.. figure:: figures/transparent.png
     :alt: VMD tutorial for LAMMPS -  transparent field
-    :class: only-dark
-
-.. figure:: figures/transparent-light.png
-    :alt: VMD tutorial for LAMMPS - transparent field
-    :class: only-light
 
 Figure: System with water represented as a transparent field.
 
@@ -179,13 +150,8 @@ Goodsell
 VMD also offers the Goodsell cartoon-like representation, 
 which can be an interesting alternative.
 
-.. figure:: figures/goodsell-dark.png
+.. figure:: figures/goodsell.png
     :alt: VMD tutorial for LAMMPS - System in the style of David Goodsell
-    :class: only-dark
-
-.. figure:: figures/goodsell-light.png
-    :alt: VMD tutorial for LAMMPS - System in the style of David Goodsell
-    :class: only-light
 
 Figure: System in the style of David Goodsell.
 
@@ -209,10 +175,8 @@ used simply by clicking *File* :math:`\to` *Load vizualisation state*.
 Rendering image
 ---------------
 
-.. container:: justify
-
-    To generate high a resolution image, go in *File → Render*,
-    choose *Tachyon*, hit *Start Rendering*.
+To generate high a resolution image, go in *File → Render*,
+choose *Tachyon*, hit *Start Rendering*.
 
 Rendering movie
 ---------------

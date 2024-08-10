@@ -6,12 +6,7 @@ VMD tutorial `here <link_target_>`_.
 
 .. _link_target: tutorial/vmd-tutorial.rst
 
-.. figure:: tutorial/figures/step4-dark.png
+.. figure:: tutorial/figures/step4.png
     :alt: VMD tutorial for LAMMPS
-    :class: only-dark
-
-.. figure:: tutorial/figures/step4-light.png
-    :alt: VMD tutorial for LAMMPS
-    :class: only-light
 
 These guides are provided as a support to the LAMMPS tutorial webpage.
