@@ -14,4 +14,4 @@ VMD tutorial `here <link_target_>`_.
     :alt: VMD tutorial for LAMMPS
     :class: only-light
 
-These guides are provided as an help 
+These guides are provided as a support to the LAMMPS tutorial webpage.

@@ -56,13 +56,9 @@ Go to *Display*, change the view to *Orthographic*, and unselect
 Still in *Display*, select
 *Axes -> Off*.
 
-.. figure:: figures/step1-dark.png
+.. figure:: figures/step1.png
     :alt: VMD tutorial for LAMMPS
     :class: only-dark
-
-.. figure:: figures/step1-light.png
-    :alt: VMD tutorial for LAMMPS
-    :class: only-light
 
 Figure: Initial system in the absence of depth cueing and with orthographic
 view.
