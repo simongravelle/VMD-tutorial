@@ -28,7 +28,7 @@ corresponds to a mixture of water and toluene.
 
 .. |dump_download| raw:: html
 
-   <a href="../../../../../lammpstutorials-inputs/vmd/dump.lammpstrj" target="_blank">download</a>
+   <a href="files/dump.lammpstrj" target="_blank">download</a>
 
 The water molecules use *types* 1 and 2, and the toluene molecules use
 *types* 3, 4, and 5.
