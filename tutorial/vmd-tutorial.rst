@@ -7,10 +7,9 @@ VMD tutorial
 
     Generate good-looking images and movies with VMD
 
-.. figure:: figures/avatar.png
-    :alt: Image of the lammps polymer-water system generated with VMD visual representation 
-    :height: 250
-    :align: right
+.. raw:: html
+
+   <img src="figures/avatar.png" align="right" width="300px" alt="right-aligned logo in README">
 
 Visual Molecular Dynamics (VMD) is a free molecular graphics software
 that can be used to visualize molecular dynamics systems. VMD has been
