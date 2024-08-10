@@ -17,4 +17,6 @@ About me & Contact
 ------------------
 
 I am a computer physicist in soft matter and fluids at interfaces. You can 
-find more information on my [personal webpage](https://simongravelle.github.io/).
+find more information on my `personal webpage <personal_webpage_>`_.
+
+.. _personal_webpage: https://lammpstutorials.github.io
