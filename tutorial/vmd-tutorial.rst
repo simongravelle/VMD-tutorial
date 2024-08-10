@@ -95,8 +95,8 @@ can be good looking on presentation with a dark background).
 
 Still in the *Color Controls* windows, in *Categories*, click *Name*. In the
 *Names* sub windows choose *3* (carbon) and select the color silver. Then, do
-the same for 5 (also a carbon :math:`\to` silver), 4 (hydrogen :math:`\to` white),
-2 (hydrogen :math:`\to` white), 1 (oxygen :math:`\to` cyan).
+the same for 5 (also a carbon → silver), 4 (hydrogen → white),
+2 (hydrogen → white), 1 (oxygen → cyan).
 
 Note that the cyan color is not standard for oxygen. Feel free to change it based
 on your taste.
@@ -170,7 +170,7 @@ Saving a state
 
 To avoid redoing all these steps every time VMD is re-opened, one can save the
 VMD state by clicking *File → Save vizualisation state*. This state can then be
-used simply by clicking *File* :math:`\to` *Load vizualisation state*.
+used simply by clicking *File → Load vizualisation state*.
 
 Rendering image
 ---------------
