@@ -1,5 +1,5 @@
-VMD tutorial
-************
+VMD short tutorial
+******************
 
 Guide to generate good-looking images and movies with VMD. You can access the
 VMD tutorial `here <link_target_>`_. VMD version 1.9.3 was used.
